@@ -1,2 +1,2 @@
 # Helm-chart
-![image](https://github.com/user-attachments/assets/cc898afa-5fd7-4e4d-b15b-d566bccd0f55)
+![image](https://github.com/user-attachments/assets/73f71139-66f0-4a1b-bf22-1c9d0f9ea421)
